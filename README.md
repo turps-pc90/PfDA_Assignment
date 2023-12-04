@@ -47,7 +47,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-  git clone https://github.com/your-username/PfDA_Assignment.git
+  git clone https://github.com/turps-pc90/PfDA_Assignment.git
    ```
 2. Ensure that you have Python installed on your system. If not, download and install Python from the official website.
    ```
@@ -86,6 +86,6 @@ Create a pull request on the original repository, explaining your changes and wh
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GNU GENERAL PUBLIC LICENSE. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
